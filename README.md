@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TobyYasha
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and C++
 - 📫 How to reach me ...
 
 <!---
